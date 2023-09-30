@@ -5,15 +5,27 @@
 
 - 🔭 I’m currently working on **Enhancing my skills and Efficiecy**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 Passionate Data Analyst and Engineer | Dedicated to Driving Data-Driven Insights
+- 
+- 🚀 Aspiring data enthusiast seeking an exciting role in the dynamic fields of data analysis and engineering.
+
+- 🔍 Equipped with a strong foundation in data manipulation, statistical analysis, and machine learning, I am committed to uncovering meaningful patterns and insights from data.
+- 🌟 My goal is to leverage my analytical skills to solve complex problems and contribute to data-informed decision-making.
+- 
+- 🌐 Let's connect to explore opportunities for collaboration and professional growth.
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **Sachinpareek21874@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V3lOu1ZZFwctm7cVBoo7I8zwZ-pyAPwY/view?usp=sharing](https://drive.google.com/file/d/1V3lOu1ZZFwctm7cVBoo7I8zwZ-pyAPwY/view?usp=sharing)
+- Top skillsTop skills
+  Python (Programming Language) • MySQL • Machine Learning • Big Data Analytics • Statistics
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1V3lOu1ZZFwctm7cVBoo7I8zwZ-pyAPwY/view?usp=sharing](https://drive.google.com/file/d/1SZ7H7o42FXbODrmCPtJ83uxESHjuIytB/view?usp=sharing)
+
+- Portfolio : https://pareeksachin.github.io/sachinpareek/
 
 - ⚡ Fun fact **Stock Market**
 
